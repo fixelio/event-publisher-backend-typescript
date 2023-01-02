@@ -1,6 +1,6 @@
 {
   "name": "event-publisher-backend-typescript",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "\"# event-publisher-backend-typescript\"",
   "main": "index.js",
   "scripts": {

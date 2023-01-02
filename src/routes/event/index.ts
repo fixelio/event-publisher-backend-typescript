@@ -6,7 +6,7 @@ import { getEvent } from '../../controller/event/event.controller';
 const eventRouter: Router = Router();
 
 eventRouter.get(
-  '/',
+  '/:eventId',
   useController(getEvent)
 );
 
